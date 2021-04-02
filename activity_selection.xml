@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/logo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/r"/>
+
+    <Button
+        android:id="@+id/goToVoice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:gravity="center"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="50dp"
+        android:text="Voice" />
+
+    <Button
+        android:id="@+id/goToText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:layout_marginTop="450dp"
+        android:layout_marginRight="50dp"
+        android:text="Text" />
+
+    <TextView
+        android:id="@+id/enterChoice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="350dp"
+        android:layout_marginRight="110dp"
+        android:background="#FFEB3B"
+        android:duplicateParentState="false"
+        android:editable="false"
+        android:gravity="center"
+        android:text="Enter Input Choice"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+</RelativeLayout>
+
+
+
