@@ -18,7 +18,7 @@
 ## Let’s Connect
 - 💬 **Discord**: `Quazar #6285`  
 - 💬 **Telegram**: [@MrQuazar](https://t.me/MrQuazar)  
-- 📷 **Instagram**: [@aartemsingh](https://instagram.com/aartemsingh)
+- 📷 **Instagram**: [@aartemsingh](https://instagram.com/mr_quazar)
 
 ---
 > *Always learning, always building.*
